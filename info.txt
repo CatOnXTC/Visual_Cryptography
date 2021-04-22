@@ -1,0 +1,3 @@
+Kryptografia wizualna pozwala ukryć obraz w dwóch innych poprzez powielenie pikseli i wprowadzenie szumu rozdzielonego na dwa obrazy tak, że każdy z nich jest nieczytelny lecz oba nałożone na siebie dają poprawny obraz.
+
+Czarne piksele zapisywane są tak, by szum był przeciwny na obu obrazach. Czyli na jednym piksel będzie biały a na drugim czarny. Natomiast białe piksele są zapisywane w ten sam sposób na obu obrazach.

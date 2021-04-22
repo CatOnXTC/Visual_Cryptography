@@ -1,0 +1,8 @@
+Wciskając "Informacje" pojawią się dodatkowe informacje na temat działania algorytmu.
+
+W polu tekstowym można wpisać nazwę jaką mają przyjąć tworzone pliki.
+
+Przycisk "Zaszyfruj obraz" pozwala wybrać jeden obraz typu jpg, png lub bmp a następnie zaszyfrować go. Mogą pojawić się problemy jezeli obraz nie jest czarno-biały.
+Przycisk "Odszyfruj obraz" pozwala wybrać dwa obrazy i odszyfrować je zapisując obraz wyjściowy.
+Zaznaczając brak szumu otrzyma się obraz wyjściowy będący wynikiem zwykłego odszyfrowania z dodatkowym usunięciem szumu w miejscu białych pikseli.
+Zaznaczając w kwadrat obraz będzie szyfrowany i deszyfrowany z rozszerzeniem jednego piksela na cztery. Inaczej jeden piksel zostanie wyciągnięty horyzontalnie.
